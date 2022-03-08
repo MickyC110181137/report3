@@ -1,0 +1,23 @@
+{
+  "name": "report3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts":  {
+    "test": "functional-javascript-workshop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MickyC110181137/report3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MickyC110181137/report3/issues"
+  },
+  "homepage": "https://github.com/MickyC110181137/report3#readme",
+  "devDependencies": {
+    "functional-javascript-workshop": "^1.0.6"
+  }
+}
